@@ -1,0 +1,58 @@
+.root {
+    -fx-background-color: linear-gradient(from 10% 10% to 100% 100%, #7015a5, #300747);
+    -fx-font-family: Calibri;
+    -fx-font-weight: Bold;
+    -fx-font-size: 13px;
+}
+
+.list-view {
+    -fx-background-color: #2a0530;
+    -fx-background-radius: 30px;
+}
+
+.list-view .list-cell:even {
+    -fx-background-color: #2a0530;
+    -fx-background-size: 70%;
+    -fx-text-fill: white;
+    -fx-background-radius: 30px;
+}
+.list-view .list-cell:odd {
+    -fx-background-color: #2c0542;
+    -fx-background-size: 70%;
+    -fx-text-fill: white;
+    -fx-background-radius: 30px;
+}
+
+.list-view .list-cell:hover {
+    -fx-background-color: #6711ad;
+    -fx-text-fill: white;
+}
+.list-view .list-cell:selected {
+    -fx-background-color: #510c89;
+    -fx-text-fill: white;
+}
+
+
+.button {
+    -fx-background-color: #2a0530;
+    -fx-text-fill: white;
+    -fx-background-insets: 0 0 -1 0, 0, 1, 2;
+    -fx-background-radius: 30px;
+    -fx-padding: 0.333333em 0.666667em 0.333333em 0.666667em;
+}
+
+.button:hover{
+    -fx-background-color: #36083d;
+    -fx-background-insets: 0 0 -1 0, 0, 1, 2;
+    -fx-background-radius: 30px;
+    -fx-padding: 0.333333em 0.666667em 0.333333em 0.666667em;
+    -fx-text-fill: white;
+    -fx-alignment: CENTER;
+    -fx-content-display: LEFT;
+}
+
+.text-area {
+    -fx-background-color: #2a0530;
+    -fx-text-fill: white;
+    -fx-background-radius: 30px;
+}
