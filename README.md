@@ -1,5 +1,5 @@
 # jar-editor
-Application that allows to make changes in *.jar files (add packages, classes, methods, fields, overwrite methods, add code to them etc.)
+Application that allows to make changes in *.jar files.
 
 With this application you can do following things with *.jar file:
 - add new library,
