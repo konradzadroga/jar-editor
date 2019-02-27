@@ -17,5 +17,10 @@ With this application you can do following things with *.jar file:
 - overwrite the method,
 - overwrite the constructor.
 
-![Alt text](/src/main/resources/screenshots/screenone.png?raw=true "Optional Title")
+Screenshots:
+![Alt text](/src/main/resources/screenshots/screenone.png?raw=true "Screenshot1")
+
+![Alt text](/src/main/resources/screenshots/screentwo.png?raw=true "Screenshot2")
+
+![Alt text](/src/main/resources/screenshots/screenthree.png?raw=true "Screenshot3")
 
