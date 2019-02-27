@@ -1,4 +1,4 @@
-# jar-editor
+# Jar editor
 Application that allows to make changes in *.jar files.
 
 With this application you can do following things with *.jar file:
