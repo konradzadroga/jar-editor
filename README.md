@@ -17,7 +17,7 @@ With this application you can do following things with *.jar file:
 - overwrite the method,
 - overwrite the constructor.
 
-Screenshots:
+<b>Screenshots:</b>
 ![Alt text](/src/main/resources/screenshots/screenone.png?raw=true "Screenshot1")
 
 ![Alt text](/src/main/resources/screenshots/screentwo.png?raw=true "Screenshot2")
